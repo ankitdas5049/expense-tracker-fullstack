@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.local
+*.db
+*.sqlite
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.swp
+*.swo
+*~
+build/
+.next/
+out/
